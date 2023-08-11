@@ -13,7 +13,13 @@ To start building your own components and styles, follow these steps:
 
 1. open index.html with chrome or any web browser
 
-<img src="https://github.com/TechKumarNitish/site/blob/main/source/image/15.jpg"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/one.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/two.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/three.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/four.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/five.png"/>
+<img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/food-munch/six.png"/>
+
 
 ## Contributing
 
